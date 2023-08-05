@@ -775,7 +775,7 @@ html {
 body {
   font-family: 'Lato', sans-serif;
   color: #515151;
-  background-color: #c2ecf0;
+  background-color: #fbfbfb;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -828,7 +828,7 @@ pre code {
 
 table {
   border: 1px solid #aaa;
-  background-color: #eee;
+  background-color: #DDBEAA;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
