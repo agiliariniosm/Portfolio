@@ -1222,7 +1222,7 @@ a.newer-posts:hover {
   padding: 0;
   margin: 0;
   max-height: 500px;
-  background-color: #5BA199;
+  background-color: #fafafa;
   overflow: hidden;
 }
 
@@ -1289,7 +1289,7 @@ a.newer-posts:hover {
 }
 
 .page-footer .page-share a:hover {
-  background-color: #ecf0f1;
+  background-color: #5BA199;
 }
 
 .page-footer .page-tag a {
