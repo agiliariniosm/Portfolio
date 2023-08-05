@@ -10,7 +10,7 @@ site-twitter: #if your site has a twitter account, enter it here
 
 # Author Settings
 author: Alice Giliarini # add your name
-author-img: ![Alice Giliarini](assets/img/Alice Giliarini/me_w_max.jpeg) # add your photo
+author-img: me&max.jpeg # add your photo
 about-author: Data analyst who is well-versed in SQL, Excel, and Tableau. Previous experience in linguistics and education. # add description
 #social-twitter: # add your Twitter handle
 #social-facebook: # add your Facebook handle
