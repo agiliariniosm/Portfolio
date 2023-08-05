@@ -828,7 +828,7 @@ pre code {
 
 table {
   border: 1px solid #aaa;
-  background-color: #DDBEAA;
+  background-color: #eee;
   width: 100%;
   text-align: left;
   border-collapse: collapse;
@@ -933,7 +933,7 @@ table tfoot td {
   width: 240px;
   height: 100%;
   padding: 20px 10px;
-  background-color: #ffffff;
+  background-color: #DDBEAA;
 }
 
 .about {
