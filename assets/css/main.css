@@ -1020,10 +1020,10 @@ table tfoot td {
       -ms-flex-align: stretch;
           align-items: stretch;
 }
-
+/*background of side tab w author info*/
 .contact .contact-title {
   position: relative;
-  color: #DDBEAA;
+  color: #5BA199;
   font-weight: 400;
   font-size: 12px;
   margin: 0 0 5px;
