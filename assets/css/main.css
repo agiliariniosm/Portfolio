@@ -437,70 +437,70 @@ template {
 }
 
 .highlight {
-  background-color: #faf9f9;
+  background-color: #5BA199;
   -webkit-border-radius: 3px;
           border-radius: 3px;
   margin: 0;
 }
 
 .highlighter-rouge {
-  color: #ce887b;
+  color: #5BA199;
   font-weight: 400;
-  border: 1px solid #607D8B;
+  border: 1px solid #5BA199;
   -webkit-border-radius: 3px;
           border-radius: 3px;
   padding: 0.1rem 0.5rem;
 }
 
 .highlight .hll {
-  background-color: #ffc;
+  background-color: #5BA199;
 }
 
 .highlight .c {
-  color: #999;
+  color: #5BA199;
 }
 
 /* Comment */
 .highlight .err {
-  color: #a00;
-  background-color: #faa;
+  color: #5BA199;
+  background-color: #5BA199;
 }
 
 /* Error */
 .highlight .k {
-  color: #069;
+  color: #5BA199;
 }
 
 /* Keyword */
 .highlight .o {
-  color: #555;
+  color: #5BA199;
 }
 
 /* Operator */
 .highlight .cm {
-  color: #09f;
+  color: #5BA199;
   font-style: italic;
 }
 
 /* Comment.Multiline */
 .highlight .cp {
-  color: #099;
+  color: #5BA199;
 }
 
 /* Comment.Preproc */
 .highlight .c1 {
-  color: #999;
+  color: #5BA199;
 }
 
 /* Comment.Single */
 .highlight .cs {
-  color: #999;
+  color: #5BA199;
 }
 
 /* Comment.Special */
 .highlight .gd {
-  background-color: #fcc;
-  border: 1px solid #c00;
+  background-color: #5BA199;
+  border: 1px solid #5BA199;
 }
 
 /* Generic.Deleted */
@@ -510,34 +510,34 @@ template {
 
 /* Generic.Emph */
 .highlight .gr {
-  color: #f00;
+  color: #5BA199;
 }
 
 /* Generic.Error */
 .highlight .gh {
-  color: #030;
+  color: #5BA199;
 }
 
 /* Generic.Heading */
 .highlight .gi {
-  background-color: #cfc;
-  border: 1px solid #0c0;
+  background-color: #5BA199;
+  border: 1px solid #5BA199;
 }
 
 /* Generic.Inserted */
 .highlight .go {
-  color: #aaa;
+  color: #5BA199;
 }
 
 /* Generic.Output */
 .highlight .gp {
-  color: #009;
+  color: #5BA199;
 }
 
 /* Generic.Prompt */
 /* Generic.Strong */
 .highlight .gu {
-  color: #030;
+  color: #5BA199;
 }
 
 /* Generic.Subheading */
