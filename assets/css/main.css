@@ -935,12 +935,14 @@ table tfoot td {
   padding: 20px 10px;
   background-color: #DDBEAA;
 }
+/*background of side tab w author info above*/
 
 .about {
   margin: 0 0 40px;
   text-align: center;
 }
 
+/*circle surrounding author image*/
 .about .cover-author-image {
   width: 100px;
   height: 100px;
@@ -1020,7 +1022,7 @@ table tfoot td {
       -ms-flex-align: stretch;
           align-items: stretch;
 }
-/*background of side tab w author info*/
+/*pretty sure it's the words contact me*/
 .contact .contact-title {
   position: relative;
   color: #5BA199;
@@ -1166,6 +1168,7 @@ footer .copyright {
   text-decoration: none;
   color: #5BA199;
 }
+/*color of titles on the box buttons on home page*/
 
 .post .post-content p {
   margin-top: 0;
@@ -1211,7 +1214,7 @@ a.newer-posts:hover {
 }
 
 .header-page .page-date {
-  color: #a0a0a0;
+  color: #5BA199;
   font-weight: 300;
   font-size: 12px;
   text-transform: uppercase;
@@ -1222,7 +1225,7 @@ a.newer-posts:hover {
   padding: 0;
   margin: 0;
   max-height: 500px;
-  background-color: #fafafa;
+  background-color: #5BA199;
   overflow: hidden;
 }
 
@@ -1262,7 +1265,7 @@ a.newer-posts:hover {
           flex-wrap: wrap;
   padding-bottom: 30px;
   margin: 30px 0;
-  border-bottom: 1px solid #a0a0a0;
+  border-bottom: 1px solid #5BA199;
 }
 
 .page-footer .page-share {
@@ -1273,11 +1276,11 @@ a.newer-posts:hover {
 .page-footer .page-share a {
   display: inline-block;
   text-decoration: none;
-  background-color: #fafafa;
-  border: 1px solid #ecf0f1;
+  background-color: #5BA199;
+  border: 1px solid #5BA199;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #263959;
+  color: #5BA199;
   font-size: 12px;
   -webkit-transition: background-color .3s;
   -o-transition: background-color .3s;
@@ -1289,7 +1292,7 @@ a.newer-posts:hover {
 }
 
 .page-footer .page-share a:hover {
-  background-color: #ecf0f1;
+  background-color: #5BA199;
 }
 
 .page-footer .page-tag a {
@@ -1299,7 +1302,7 @@ a.newer-posts:hover {
   margin-left: 5px;
   color: #263959;
   text-transform: uppercase;
-  border: 1px solid #263959;
+  border: 1px solid #5BA199;
 }
 
 .page-footer .page-tag a:hover {
