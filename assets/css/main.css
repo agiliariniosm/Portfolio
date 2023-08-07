@@ -893,7 +893,7 @@ table tfoot td {
 }
 
 ::-moz-selection {
-  background: rgba(38, 57, 89, 0.8);
+  background: #469597;
   color: #ffffff;
 }
 
