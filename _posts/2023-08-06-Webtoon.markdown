@@ -3,8 +3,8 @@ layout: post
 title: Improving the Webtoon Search Experience
 date: 2022-02-01
 description: # Add post description (optional)
-img: lore_olympus.png(https://www.webtoons.com/en/romance/lore-olympus/list?title_no=1320) # Add image post (optional)
-fig-caption: # Add figcaption (optional)
+img: lore_olympus.png # Add image post (optional)
+fig-caption:(https://www.webtoons.com/en/romance/lore-olympus/list?title_no=1320) # Add figcaption (optional)
 tags: [Webtoon, Linguistics, SQL, Superset]
 ---
 
