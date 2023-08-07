@@ -19,8 +19,8 @@ As a user, the experience of finding new comics on Webtoon is limiting, so I con
 ## Context:
 Webtoon is a company that produces comics which are available for the public to read both online and via a phone app. Each comic has information attached to it such as a single genre tag, a summary, average rating out of 10, total likes across episodes, and the amount of subscribed readers. Such data was collected in the dataset used in this project, taken from [Kaggle](https://www.kaggle.com/swarnimrai/webtoon-comics-dataset). The dataset looks at 569 "Original" Webtoon comics, or comics that are sponsored by Webtoon, and does not include comics available in Webtoon's "Canvas" section where anyone can post.
 
-# Linguistic Data Analysis of Webtoon’s Summaries
-## Most Commonly Used Words
+## Linguistic Data Analysis of Webtoon’s Summaries
+### Most Commonly Used Words
 
 As a user, most of the comics I've found have been about entities such as vampires, fairies, and witches; so, my hypothesis was that after breaking down the summaries into a list of single words and after taking away function words (grammar words), verbs, and adjectives, the remaining list would include fictional entities at the top of the list. This was not the case. 
 
@@ -36,7 +36,7 @@ This is the process I went throught to get the results shown in the bar chart:
 4. Counted how many comics use the remaining words and ranked them in order of most used to least used.
 5. Found the percentage of comics containing the words. 
 
-#### Improving User's Discovery of New Comics
+### Improving User's Discovery of New Comics
 
 **The Problem**
 
@@ -57,7 +57,7 @@ If Webtoon opens up the ability to find comics by tags or keywords found in summ
 
 In making this list I only looked at specific nouns because such words can be used as topics. I considered what percent of comics mentioned the word in their summary, whether the word provides information about the comic, and whether a user would be likely to look up this word to find comics of interest. The keywords in the suggested list appear in atleast 1.58% of comics. Words like "life" and "world" were excluded because they are too vague; all comics are about a "world" and "life" so these words do not provide any information about a comic. In order to decide on how likely a user would look up a keyword, a small sample of people was given a list of keywords and was asked to assign each keyword a number 1-3. One being "this is not a useful keyowrd", two being "I'm not interested in this keyword but others are likely to be interested," and three being "I would use this keyword to find comics of interest." All words with an average score below 1.5 were removed from the list. 
 
-#### Other Discoveries
+### Other Discoveries
 
 Here are some other linguistic data points that were looked at and some discoveries that were made.
 
@@ -75,8 +75,6 @@ A preference for "journey" was found over its two synonyms "adventure" and "ques
 ![girl_boy_man_woman](images/Screen%20Shot%202022-02-18%20at%2012.51.21%20PM.png)
 
 "Girl" and "Boy," referring to children, were both used more frequently than the words "man" and "woman," referring to adults. While "girl" was used more frequently than "boy," "man" was used more frequently than "woman." 
-
-#### The Code
 
 
 
