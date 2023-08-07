@@ -26,7 +26,6 @@ As a user, most of the comics I've found have been about entities such as vampir
 
 **Top 10 Specific Nouns**
 ![top10_specificnouns](images/Webtoon/specfic_nouns.png)
-
 Specific nouns are all nouns that contain semantical meaning and provide a reader with information. While specific nouns do not include non-specific nouns such as "everything" or "everyone," they do include words such as "hats" or "humans". 
 
 This is the process I went throught to get the results shown in the bar chart:
