@@ -5,6 +5,6 @@ date: 2023-08-06
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
 img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
-tags: [#CampaignEffectiviness, #MarketingAnalytics, SQL, Excel]
+tags: [CampaignEffectiviness,#MarketingAnalytics,SQL,Excel] #add tags
 ---
 hjhhjkhkjhkjhk
