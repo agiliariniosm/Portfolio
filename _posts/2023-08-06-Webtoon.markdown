@@ -8,7 +8,7 @@ fig-caption: # Add figcaption (optional)
 tags: [Webtoon, Linguistics, SQL, Superset]
 ---
 
-# Summary of Insights: 
+## Summary of Insights: 
 As a user, the experience of finding new comics on Webtoon is limiting, so I conducted an analysis to prove this and to create a list of recommended keywords which I extracted from 569 comic summaries. I found that when users search for "school" in the search bar only 6 comics show up because they are in the title, while 61 summaries mention "school" at least once. This means that each user is not exposed to 64 comics they could potentially be intersted in. I also found that 24 comics that included "love" in their summary were missing from the "Romance" genre list provided by Webtoon. The top five suggested keywords that should be implemented to improve search experience are: school, love, family, student, and secret. I consider these top five as they both occur in the most summaries and are topics that users are likely to search for.
 
 - Used SQL to sift through Webtoon's summaries of comics, find most used words, and pull-out keywords
