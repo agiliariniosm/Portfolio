@@ -7,4 +7,4 @@ img: i-rest.jpg # Add image post (optional)
 fig-caption: # Add figcaption (optional)
 tags: [#CampaignEffectiviness, #MarketingAnalytics, SQL, Excel]
 ---
-hjh
+hjhhjkhkjhkjhk
