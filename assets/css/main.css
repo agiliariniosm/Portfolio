@@ -1214,7 +1214,7 @@ a.newer-posts:hover {
 }
 
 .header-page .page-date {
-  color: #5BA199;
+  color: #f59525;
   font-weight: 300;
   font-size: 12px;
   text-transform: uppercase;
@@ -1225,7 +1225,7 @@ a.newer-posts:hover {
   padding: 0;
   margin: 0;
   max-height: 500px;
-  background-color: #5BA199;
+  background-color: #62a8c4;
   overflow: hidden;
 }
 
@@ -1265,7 +1265,7 @@ a.newer-posts:hover {
           flex-wrap: wrap;
   padding-bottom: 30px;
   margin: 30px 0;
-  border-bottom: 1px solid #5BA199;
+  border-bottom: 1px solid #f59525;
 }
 
 .page-footer .page-share {
@@ -1277,10 +1277,10 @@ a.newer-posts:hover {
   display: inline-block;
   text-decoration: none;
   background-color: #fafafa;
-  border: 1px solid #5BA199;
+  border: 1px solid #f59525;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #5BA199;
+  color: #f59525;
   font-size: 12px;
   -webkit-transition: background-color .3s;
   -o-transition: background-color .3s;
@@ -1292,7 +1292,7 @@ a.newer-posts:hover {
 }
 
 .page-footer .page-share a:hover {
-  background-color: #5BA199;
+  background-color: #f59525;
 }
 
 .page-footer .page-tag a {
@@ -1300,9 +1300,9 @@ a.newer-posts:hover {
   font-size: 10px;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #469597;
+  color: #62a8c4;
   text-transform: uppercase;
-  border: 1px solid #5BA199;
+  border: 1px solid #62a8c4;
 }
 
 .page-footer .page-tag a:hover {
