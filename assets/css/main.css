@@ -994,7 +994,7 @@ table tfoot td {
   height: 7px;
   -webkit-border-radius: 100%;
           border-radius: 100%;
-  background-color: #5BA199;
+  background-color: #004457;
 }
 
 .about p {
@@ -1080,7 +1080,7 @@ table tfoot td {
 }
 
 .contact ul li a {
-  color: #5BA199;
+  color: #62a8c4;
   display: block;
   padding: 5px;
   font-size: 18px;
@@ -1090,7 +1090,7 @@ table tfoot td {
 }
 
 .contact ul li a:hover {
-  color: #5BA199;
+  color: #f59525;
   -webkit-transform: scale(1.2);
       -ms-transform: scale(1.2);
           transform: scale(1.2);
@@ -1166,7 +1166,7 @@ footer .copyright {
 .post .post-content .post-title a {
   font-family: 'PT Serif', serif;
   text-decoration: none;
-  color: #5BA199;
+  color: #62a8c4;
 }
 /*color of titles on the box buttons on home page*/
 
@@ -1177,7 +1177,7 @@ footer .copyright {
 a.older-posts, a.newer-posts {
   font-size: 18px;
   display: inline-block;
-  color: #5BA199;
+  color: #62a8c4;
   -webkit-transition: -webkit-transform .2s;
   transition: -webkit-transform .2s;
   -o-transition: transform .2s;
