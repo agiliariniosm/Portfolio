@@ -1277,10 +1277,10 @@ a.newer-posts:hover {
   display: inline-block;
   text-decoration: none;
   background-color: #fafafa;
-  border: 1px solid #f59525;
+  border: 1px solid #62a8c4;
   padding: 5px 10px;
   margin-left: 5px;
-  color: #f59525;
+  color: #62a8c4;
   font-size: 12px;
   -webkit-transition: background-color .3s;
   -o-transition: background-color .3s;
