@@ -6,19 +6,19 @@ description: You’ll find this post in your `_posts` directory. Go ahead and ed
 img: js-1.png # Add image post (optional)
 tags: [RFM_Scores,CustomerAnalysis,Excel,Tableau,KPMG,SalesData] # add tag
 ---
-## Project 2: KPMG Virtual Experience Program
+## Summary of Insights
+For this project I analyzed 20,000 rows of transactional data in order to find top customers and the distribution of customers based on RFM (Recency Frequency Monetary) scores. I found that the top customers fell in the following groups: 40-49 years old, mass customers, female, from New South Whales, and from the "manufacturing" job industry. I also found that 57.86% customers fell into the 2nd and 3rd quartiles for recency. Such customers are a potential flight risk but haven't been lost yet. The recommendation is to look into why they these customers haven't bought in a while and likely target them with campaigns and incentives. 
 
 - Used Excel to clean, mitigate, and prepare data for analysis
-- Used Excel for feature engineering 
-- Used Excel to create pivot tables and charts 
-- Used Tableau to create a dashboard
+- Used Excel to calculate RFM scores and create pivot tables and charts 
+- Used Tableau to create a dashboard displaying most important metrics
+- [Here you can find the dashboard](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
 
-[![KPMG](images/Screen%20Shot%202022-03-07%20at%2011.36.50%20PM.png)](https://www.theforage.com/virtual-internships/theme/m7W4GMqeT3bh9Nb2c/KPMG-Data-Analytics-Virtual-Internship)
-
-For this project we were provided with three sets of data from a hypothetical company, Sprocket Central Pty Ltd:
-- Transaction history
-- Customer demographics
-- Customer address
+##Context
+For this project KPMG provided three tables with data from a hypothetical company, Sprocket Central Pty Ltd:
+- Transaction history: 20,000 rows of transactions
+- Customer demographics: 4,001 customers
+- Customer address: 4,000 customers
   
 We were also given the following background information regarding the company:
 > "Sprocket Central Pty Ltd is a long-standing KPMG client whom specializes in high-quality bikes and accessible cycling accessories to riders.” They have “given us a new list of 1000 potential customers with their demographics and attributes. However, these customers do not have prior transaction history with the organization."
