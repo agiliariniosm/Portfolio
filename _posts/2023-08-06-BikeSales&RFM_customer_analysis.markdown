@@ -14,7 +14,7 @@ For this project I analyzed 20,000 rows of transactional data in order to find t
 - Used Tableau to create a dashboard displaying most important metrics
 - [Here you can find the dashboard](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
 
-##Context
+## Context
 For this project KPMG provided three tables with data from a hypothetical company, Sprocket Central Pty Ltd:
 - Transaction history: 20,000 rows of transactions
 - Customer demographics: 4,001 customers
