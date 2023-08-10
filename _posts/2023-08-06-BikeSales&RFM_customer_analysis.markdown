@@ -36,7 +36,7 @@ The project was broken down into three tasks:
 #### Data Exploration & Presentation
 
 [You can find the presentation here](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
-[![customertype]({{site.baseurl}}/assets/img/KPMG/customer_types.png)(https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
+[![customertype]({{site.baseurl}}/assets/img/KPMG/customer_types.png)](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
 
 #### Key Findings & Dashboard
 
