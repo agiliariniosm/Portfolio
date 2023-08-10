@@ -50,5 +50,5 @@ I found the top customers to be:
 - From New South Wales
 - From the "manufacturing" job industry
 
-Customers with these characteristics brought in the most profit. The recommendation is to look for these characteristics in the list of 1000 new customers when deciding who to target. Further more, I found that 40.14% of customers are in the "About to Dump You" segment and are at risk of leaving the company as they haven't bought for a while. It is a good idea to target these customers with campaigns and offers as well. 24% of our customers fall into either the "Soulmates" or "Lovers" segments, meaning they are good spenders, buy frequently, and have bought pretty recently.
+Customers with these characteristics brought in the most profit. The recommendation is to look for these characteristics in the list of 1000 new customers when deciding who to target. Further more, I found that 40.14% of customers are in the "About to Dump You" segment and are at risk of leaving the company as they haven't bought for a while. It is a good idea to target these customers with campaigns and offers as well. 24% of our customers fall into either the "Soulmates" or "Lovers" segments, meaning they are good spenders, buy frequently, and have bought recently.
 
