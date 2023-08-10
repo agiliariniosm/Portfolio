@@ -41,7 +41,7 @@ The project was broken down into three tasks:
 #### Key Findings & Dashboard
 
 [You can find the dasboard here](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
-[![dashboard]({{site.baseurl}}/assets/img/KPMG/dashboard.png)](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
+[![dashboard]({{site.baseurl}}/assets/img/KPMG/dashboard.png)(https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)]
 
 I found the top customers to be:
 - 40-49 years old
