@@ -7,7 +7,7 @@ img: dashboard.png # Add image post (optional)
 tags: [RFM_Scores,CustomerAnalysis,Excel,Tableau,KPMG,SalesData] # add tag
 ---
 ## Summary of Insights
-For this project I analyzed 20,000 rows of transactional data in order to find top customers and the distribution of customers based on RFM (Recency Frequency Monetary) scores. I found that the top customers fell in the following groups: 40-49 years old, mass customers, female, from New South Whales, and from the "manufacturing" job industry. I also found that 57.86% customers fell into the 2nd and 3rd quartiles for recency. Such customers are a potential flight risk but haven't been lost yet. The recommendation is to look into why they these customers haven't bought in a while and likely target them with campaigns and incentives. 
+For this project I analyzed 20,000 rows of transactional data in order to find top customers and the distribution of customers based on RFM (Recency Frequency Monetary) scores. I found that the top customers fell in the following groups: 40-49 years old, mass customers, female, from New South Whales, and from the "manufacturing" job industry. I also found that 40.14% customers fell into the 2nd and 3rd quartiles for recency. Such customers are a potential flight risk but haven't been lost yet. The recommendation is to look into why they these customers haven't bought in a while and likely target them with campaigns and incentives. 
 
 - Used Excel to clean, mitigate, and prepare data for analysis
 - Used Excel to calculate RFM scores and create pivot tables and charts 
@@ -35,13 +35,13 @@ The project was broken down into three tasks:
 
 #### Data Exploration & Presentation
 
-[You can find the presentation here](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
+[Here you can find the presenatation](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
 [![customertype]({{site.baseurl}}/assets/img/KPMG/customer_types.png)](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
 
 #### Key Findings & Dashboard
 
-[You can find the dasboard here](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
-[![dashboard]({{site.baseurl}}/assets/img/KPMG/dashboard.png)(https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)]
+[Here you can find the dashboard](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
+[![dashboard]({{site.baseurl}}/assets/img/KPMG/dashboard.png)](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
 
 I found the top customers to be:
 - 40-49 years old
@@ -49,3 +49,6 @@ I found the top customers to be:
 - Female
 - From New South Wales
 - From the "manufacturing" job industry
+
+Customers with these characteristics brought in the most profit. The recommendation is to look for these characteristics in the list of 1000 new customers when deciding who to target. Further more, I found that 40.14% of customers are in the "About to Dump You" segment and are at risk of leaving the company as they haven't bought for a while. It is a good idea to target these customers with campaigns and offers as well. 24% of our customers fall into either the "Soulmates" or "Lovers" segments, meaning they are good spenders, buy frequently, and have bought pretty recently.
+
