@@ -34,7 +34,7 @@ The top 12 campaigns with the highest customer acquisition rates also have lowes
 ![customer_acquisition]({{site.baseurl}}/assets/img/Row_Health/customer_acquisition.png)
 
 Across campaigns run, "Email" as a platform and "Health Awareness" as a campaign type had the highest customer conversion rates. 
-![platform&type]({{site.baseurl}}/assets/img/Row_Health/platform_customer_acquisition.png)
+![platform&type]({{site.baseurl}}/assets/img/Row_Health/platform_customer_acquisition_1.png)
 
 ### Campaign Brand Awareness Effectiveness
 
@@ -42,7 +42,7 @@ The campaign with the highest clight-through-rate is CAM055 at 65.74%. It is als
 ![brand_awareness]({{site.baseurl}}/assets/img/Row_Health/brand_awareness.png)
 
 Across campaigns run, "Email" as a platform and "Health Awareness" as a campaign type had the highest click-through-rates.
-![platform&type]({{site.baseurl}}/assets/img/Row_Health/platform_brand_awareness.png)
+![platform&type]({{site.baseurl}}/assets/img/Row_Health/platform_brand_awareness_1.png)
 
 ### Top Products and Seasonality 
 
