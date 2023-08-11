@@ -39,7 +39,7 @@ Across campaigns run, "Email" as a platform and "Health Awareness" as a campaign
 ### Campaign Brand Awareness Effectiveness
 
 The campaign with the highest clight-through-rate is CAM055 at 65.74%. It is also among the cheapest for overall money spent on the campaign so the recommendation is to continue running this campaign. Campaign CAM028 is 7th for highest click through rates and is also among the cheapest campaigns. However, not much money was dedicated to this campaign so it would be a good idea to explore CAM028 and possibly run this campaign for longer. The campaigns with 2nd and 6th highest success rates have above average costs for cost per impression. The recommendation is looking into how to reduce the costs of these campaigns. CAM005 has the lowest click through rate, but is among the more expensive campaigns. The recommendation is to explore CAM005 and likely suspend it. 
-![brand_awareness]({{site.baseurl}}/assets/img/Row_Health/brand_awareness.png)
+![brand_awareness]({{site.baseurl}}/assets/img/Row_Health/brand_awareness_1.png)
 
 Across campaigns run, "Email" as a platform and "Health Awareness" as a campaign type had the highest click-through-rates.
 ![platform&type]({{site.baseurl}}/assets/img/Row_Health/platform_brand_awareness_1.png)
@@ -50,7 +50,7 @@ The most popular poduct every year 2019-2023 was Hair Growth Supplements, so the
 ![platform&type]({{site.baseurl}}/assets/img/Row_Health/products.png)
 
 An annual spike in March was found for both total claim counts and total claim amount.
-![seasonality]({{site.baseurl}}/assets/img/Row_Health/seasonality.png)
+![seasonality]({{site.baseurl}}/assets/img/Row_Health/seasonality_1.png)
 
 
 
