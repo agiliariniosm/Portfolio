@@ -30,15 +30,16 @@ The project was broken down into three tasks:
 2. Explore the data and create a power point [presentation](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf) with your insights. 
 3. Create a [dashboard](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1) to present to the client. 
 
-#### Data Assessment 
+## Customer Analysis of Sprocket's Transactional Data
+### Data Assessment 
 ![data_assessment]({{site.baseurl}}/assets/img/KPMG/data_cleaning.png)
 
-#### Data Exploration & Presentation
+### Data Exploration & Presentation
 
 [Here you can find the presenatation](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
 [![customertype]({{site.baseurl}}/assets/img/KPMG/customer_types.png)](https://github.com/agiliariniosm/Alice_Giliarini_Portfolio/blob/main/kpmg/KPMG%20virtual%20experience%20program.pdf)
 
-#### Key Findings & Dashboard
+### Key Findings & Dashboard
 
 [Here you can find the dashboard](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
 [![dashboard]({{site.baseurl}}/assets/img/KPMG/dashboard.png)](https://public.tableau.com/app/profile/alice.giliarini/viz/KPMG_16465478819120/Dashboard1#1)
