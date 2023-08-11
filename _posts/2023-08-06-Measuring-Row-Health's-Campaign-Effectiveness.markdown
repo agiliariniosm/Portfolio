@@ -16,6 +16,7 @@ I examined the effectiveness of 57 campaigns by calculating and comparing metric
 - Used Excel to create pivot tables with conditional formatting in order to visualize seasonality and highlight cost differences
 - Used Excel to present my findings and provide process documentation
 - [Here you can find my Excel workbook](https://github.com/agiliariniosm/Row_Health/blob/b9e94fdbbf10c40bf8752fa83a322ac681a5b538/Row_Health_Project.xlsm)
+- [Here you can find the SQL queries I wrote and used for this project](https://github.com/agiliariniosm/Row_Health/blob/08fc0d468095f8ee2953742c3dad731283e248fb/SQL_project_code)
 
 ## Context 
 
