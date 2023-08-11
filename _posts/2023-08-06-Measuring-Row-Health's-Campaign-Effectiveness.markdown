@@ -46,8 +46,11 @@ Across campaigns run, "Email" as a platform and "Health Awareness" as a campaign
 
 ### Top Products and Seasonality 
 
-The most popular poduct every year 2019-2023 was Hair Growth Supplements, so the recommendation is to always have these products in stock. The most profitable product, on the other hand, was the Detox + Debloat Vitamin. This product was top for profit every year as well. When looking at most products by state, the winners are Vitamin B+ Advanced Complex, Hair Grow Supplements, and the Detox + Debloat Vitamin. An annual spike in March was found for both total claim counts and total claim amount.
+The most popular poduct every year 2019-2023 was Hair Growth Supplements, so the recommendation is to always have these products in stock. The most profitable product, on the other hand, was the Detox + Debloat Vitamin. This product was top for profit every year as well. When looking at most products by state, the winners are Vitamin B+ Advanced Complex, Hair Grow Supplements, and the Detox + Debloat Vitamin. 
 ![platform&type]({{site.baseurl}}/assets/img/Row_Health/products.png)
+
+An annual spike in March was found for both total claim counts and total claim amount.
+![seasonality]({{site.baseurl}}/assets/img/Row_Health/seasonality.png)
 
 
 
