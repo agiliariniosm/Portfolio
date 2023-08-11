@@ -7,7 +7,7 @@ img: dashboard.png # Add image post (optional)
 tags: [RFM_Scores,CustomerAnalysis,Excel,Tableau,KPMG,SalesData] # add tag
 ---
 ## Summary of Insights
-For this project I analyzed 20,000 rows of transactional data in order to find top customers and the distribution of customers based on RFM (Recency Frequency Monetary) scores. I found that the top customers fell in the following groups: 40-49 years old, mass customers, female, from New South Whales, and from the "manufacturing" job industry. I also found that 40.14% customers fell into the 2nd and 3rd quartiles for recency. Such customers are a potential flight risk but haven't been lost yet. The recommendation is to look into why they these customers haven't bought in a while and likely target them with campaigns and incentives. 
+I analyzed 20,000 rows of transactional data in order to find top customers and the distribution of customers based on RFM (Recency Frequency Monetary) scores. I found that the top customers fell in the following groups: 40-49 years old, mass customers, female, from New South Whales, and from the "manufacturing" job industry. I also found that 40.14% customers fell into the 2nd and 3rd quartiles for recency. Such customers are a potential flight risk but haven't been lost yet. The recommendation is to look into why they these customers haven't bought in a while and likely target them with campaigns and incentives. 
 
 - Used Excel to clean, mitigate, and prepare data for analysis
 - Used Excel to calculate RFM scores and create pivot tables and charts 
