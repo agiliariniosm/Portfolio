@@ -18,7 +18,7 @@ I examined the effectiveness of 57 campaigns by calculating and comparing metric
 
 ## Context 
 
-Row Health is a tech-forward insurance company with over 100,000 customers throughout the United States. In 2019 they launched a Wellness Reimbursement program that subsidizes the cost of popular wellbeing supplements for their users, in order to encourage patients to take well-rounded and daily care of their bodies. These products range from probiotics, to stress relief supplements, to digestive enzymes, which are marketed across various digital channels and campaigns. 
+Row Health is a tech-forward insurance company with over 100,000 customers throughout the United States. In 2019 they launched a Wellness Reimbursement program that subsidizes the cost of popular wellbeing supplements for their users, in order to encourage patients to take well-rounded and daily care of their bodies. These products range from probiotics, to stress relief supplements, to digestive enzymes, which are marketed across various digital channels and campaigns.  
 
 
 
