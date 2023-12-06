@@ -13,7 +13,7 @@ In "Karma Got You!" you follow your dog that has been kidnapped by a strange gno
 
 <pre><code class="language-python">
 import random
-
+import time
 #Create list of options for "rock, fire, ice" game, an alternative to "rock, paper, scissors."
 
 options = ["rock", "fire", "ice"]
@@ -25,6 +25,7 @@ def rock_fire_ice():
     print(f"\"Delightful {name}! If you win, I will give you your dog back and return both of you home."
           f"\nIf you loose, you will both stay here forever."
           f"\nReady set shoot!\"")
+    random.seed(time.time())
     while True:
         user_throw = input("\nThrow rock, fire, or ice: ").lower()
         random_number = random.randint(0,2)
