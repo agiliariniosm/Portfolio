@@ -14,6 +14,7 @@ In "Karma Got You!" you follow your dog that has been kidnapped by a strange gno
 <pre><code class="language-python">
 import random
 import time
+
 #Create list of options for "rock, fire, ice" game, an alternative to "rock, paper, scissors."
 
 options = ["rock", "fire", "ice"]
