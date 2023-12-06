@@ -1,4 +1,12 @@
-
+---
+layout: post
+title: Karma Got You! (Choose Adventure Game)
+date: 2023-12-06
+description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
+img: dashboard.png # Add image post (optional)
+tags: [RFM_Scores,CustomerAnalysis,Excel,Tableau,KPMG,SalesData] # add tag
+---
+## Summary of Insights
 ```python
 
 import random
