@@ -1,7 +1,14 @@
+
+```python
+
 import random
+
+#Create list of options for "rock, fire, ice" game, an alternative to "rock, paper, scissors."
 
 options = ["rock", "fire", "ice"]
 you_won = "\"You won fair and square. I release you from my lair. By the following decree, reunited you will be.\"\n૮ ˆﻌˆ ა"
+
+#Build function that includes dialogue surrounding the game of "rock, fire, ice" as well as code to conduct the game itself. The game consists of a single round where the user either immediately wins or looses. In case of a tie another round is played. If the player wins the game of rock, fire, ice, they win the whole game and the game ends. If the player looses the game of rock, fire, ice, the whole game also ends.
 
 def rock_fire_ice():
     print(f"\"Delightful {name}! If you win, I will give you your dog back and return both of you home."
@@ -30,6 +37,7 @@ def rock_fire_ice():
             print("You lost. You and your dog will stay forever in the gnome's meadow.")
             quit()
 
+#Build function for scenario where user progresses into the game beyond the introductury portion. The "snatch_foot" scenario occurs on two different paths in the game, so a function was used. In this part of the game the user is snatched into a portal where they meet the gnome. They are given options to interact with the gnome. If the correct option is chosen, the gnome invites the user to play "rock, fire, ice."
 
 def snatch_foot():
     print("\nA hand comes out of the darkness, snatches your foot, and pulls you through a portal."
@@ -51,6 +59,8 @@ def snatch_foot():
             else:
                 print("The gnome only takes yes for an answer.")
 
+#This is the beginning or introductory portion of the game. Context is given and user is given the option to join or not join the adventure. The user is asked to give their name. 
+ 
 print(
     "You are sitting at home coding when a gnome breaks into your room through the air vent and disappears with your dog."
     "\nWould you like to chase the gnome and save your dog?")
@@ -62,6 +72,8 @@ if play_game == "yes":
 else:
     print("Karma will get you. Have a good day.")
     quit()
+
+#The user is faced with three options of how to fall from the vent they jumped into. Option a brings the user back to choosing how to fall correctly. Option b takes the user on the main path to continue the game. Option b uses the snatch_foot and rock_fire_ice functions. Option c is an alternate path that either ends in a dead end or continues on the same path as option b.
 
 while play_game == "yes":
     print(
@@ -88,4 +100,4 @@ while play_game == "yes":
             break
     else:
         print("You don't know the rules, you loose.")
-        break
+        break```
