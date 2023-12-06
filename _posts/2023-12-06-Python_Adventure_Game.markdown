@@ -3,10 +3,14 @@ layout: post
 title: Karma Got You! (Choose Adventure Game)
 date: 2023-12-06
 description: You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. # Add post description (optional)
-img: dashboard.png # Add image post (optional)
-tags: [RFM_Scores,CustomerAnalysis,Excel,Tableau,KPMG,SalesData] # add tag
+img: python_choose_adventure.png # Add image post (optional)
+tags: [Python,Choose_Adventure_Game,CISC179,Final_Project,Intro_Python] # add tag
 ---
-## Summary of Insights
+## Summary of Game
+"Karma Got You!" is a choose your own adventure game with a built in mini game of an alternative to rock paper scissors. For Introduction to Python (CISC 179), we were tasked with an open ended final project. The assignment was to create a program that has a specific function and that uses at least 4 core concepts that we learned. In my program I used user input and interaction, if/else statements, functions, while loops, and python's random module. 
+
+In "Karma Got You!" you follow your dog that has been kidnapped by a strange gnome who wants to play "Rock, fire, ice" with you. Below you will find the code I wrote for this game. Please have fun trying it out.
+
 ```python
 
 import random
