@@ -11,7 +11,7 @@ tags: [Python,Choose_Adventure_Game,CISC179,Final_Project,Intro_Python] # add ta
 
 In "Karma Got You!" you follow your dog that has been kidnapped by a strange gnome who wants to play "Rock, fire, ice" with you. Below you will find the code I wrote for this game. Please have fun trying it out.
 
-```python
+<pre><code class="language-python">
 import random
 import time
 
@@ -121,4 +121,4 @@ while play_game == "yes":
     else:
         print("You don't know the rules, you loose.")
         quit()
-```
+</code></pre>
