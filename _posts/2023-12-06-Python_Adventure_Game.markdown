@@ -52,7 +52,7 @@ def rock_fire_ice():
             quit()
 
 
-# Build function for scenario where user progresses into the game beyond the introductury portion. The "snatch_foot" scenario occurs on two different paths in the game, so a function was used. In this part of the game the user is snatched into a portal where they meet the gnome. They are given options to interact with the gnome. If the correct option is chosen, the gnome invites the user to play "rock, fire, ice."
+# Build function for scenario where user progresses into the game beyond the introductury portion. The "snatch_foot" scenario occurs on two different paths in the game, so a function was used. In this part of the game the user is snatched into a portal where they meet the gnome. They are given options to interact with the gnome. If the correct option is chosen, the gnome invites the user to play "rock, fire, ice." If a non-existent option is chosen, the game ends.
 
 def snatch_foot():
     print("\nA hand comes out of the darkness, snatches your foot, and pulls you through a portal."
@@ -95,7 +95,7 @@ else:
     print("Karma will get you. Have a good day.")
     quit()
 
-# The user is faced with three options of how to fall from the vent they jumped into. Option a brings the user back to choosing how to fall correctly. Option b takes the user on the main path to continue the game. This option uses the snatch_foot and rock_fire_ice functions. Option c is an alternate path that either ends in a dead end or continues on the same path as option b.
+# The user is faced with three options of how to fall from the vent they jumped into. Option a brings the user back to choosing how to fall correctly. Option b takes the user on the main path to continue the game. This option uses the snatch_foot and rock_fire_ice functions. Option c is an alternate path that either ends in a dead end or continues on the same path as option b. If a non-existent option is chosen, the game ends.
 
 while play_game == "yes":
     print(
